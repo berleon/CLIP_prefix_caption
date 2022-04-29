@@ -1,1 +1,1 @@
-from . import parse_coco, parse_conceptual, predict, train
+from . import parse_coco, parse_conceptual, train
